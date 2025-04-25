@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/VRxjB5QCnOFp4FcyFG" width="400">
+<img src="https://media2.giphy.com/media/VRxjB5QCnOFp4FcyFG/giphy.gif?cid=6c09b9529vyodg9724t6lxezzbqdam3li84nv83o7urd16pw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="400">
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">Hey there! I'm a Cybersecurity Explorer</h1>
 
 <p align="center">
